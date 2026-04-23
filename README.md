@@ -61,8 +61,7 @@ I build scalable mobile apps & business systems that solve real-world problems.
 ---
 
 ## 📊 GitHub Stats
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+design+and+build+complete+ERP+solutions%2C+from+backend+workflows+to+modern+frontends.+Skilled+in+Python%2C+Frappe%2C+ERPNext%2C+Flutter%2C+Node.js%2C+and+real-time+technologies+like+WebRTC+%26+Socket.io.+Driven+by+clean+architecture%2C+performance%2C+and+solving+real+operational+challenges.)](https://git.io/typing-svg)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelemadso4&show_icons=true&theme=tokyonight)
 
 ---
 
